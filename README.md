@@ -13,3 +13,7 @@ Neste repositório serão concentradas todas as informações necessárias relac
 # Semana 3
 - Segue abaixo o link da atividade da semana 3: 
 <a href="https://guinteli.itch.io/m1-s3" target="_blank" rel="noopener noreferrer"> Atividade semana 3 </a>. 
+
+# Semana 4
+- Segue abaixo o link da atividade da semana 3:
+<a href="https://guinteli.itch.io/m1s4" target="_blank" rel="noopener noreferrer"> Atividade semana 4 </a>. 
