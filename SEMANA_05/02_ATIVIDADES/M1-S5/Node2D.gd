@@ -5,7 +5,7 @@ var teste = false
 var valor = 0
 var numero = 0 # ERRO: Uso de caractere especial em variável
 var lista = [] # ERRO: Falta de 'var' para tornar "lista" em variável
-var nome = "Te"
+var nome: String
 onready var inventario = [
 	[get_node("Inventario/Fruit1"),
 	get_node("Inventario/Label1")],
@@ -18,7 +18,7 @@ onready var inventario = [
 func _on_Button_pressed(): # ERRO: Falta do node connect
 	#Coletando dados inseridos pelo usuário
 	numero = int($LineEdit.text) # ERRO: Uso de caractere especial em variável e falta de "$"
-#	$LineEdit.text = nome  # ERRO: nome não definido (Add l08), para coletar dado a linha não foi necessária
+	nome = $LineEdit.text  # ERRO: nome não definido (Add l08), para coletar dado "nome = lineedit"
 
 
 func _on_Button2_pressed(): # ERRO: Falta do node connect
@@ -42,4 +42,4 @@ func _on_Button3_pressed(): # ERRO: Falta do node connect
 	if(cont != 0): # ERRO: Indentação incorreta
 		nome = nome + "baldo"
 		$Label2.text = nome
-		$tebaldo.visible = true # Descontração (Pode ser ignorado)
+
