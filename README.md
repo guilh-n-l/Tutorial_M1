@@ -11,7 +11,7 @@ Neste repositório serão concentradas todas as informações necessárias relac
 - Além do tutorial, a cada semana, vocês terão autoestudos (atividades individuais), que deverão ser entregues até o final da semana em questão. Essas atividades estarão relacionadas à etapa anterior do tutorial para que vocês pratiquem mais. Estes autoestudos, bem como os links para os arquivos no Github (subdiretório `02_ATIVIDADES`) estarão disponíveis na Adalove a cada semana;
 
 # Atividades de cada semana
-[Semana 3](https://guinteli.itch.io/m1-s3)<br />[Semana 4](https://guinteli.itch.io/m1s4)<br />Semana 5<br />Semana 6<br />Semana 7<br />Semana 8<br />Semana 9<br />Semana 10
+[Semana 3](https://guinteli.itch.io/m1-s3)<br />[Semana 4](https://guinteli.itch.io/m1s4)<br />[Semana 5](https://guinteli.itch.io/m1s5)<br />Semana 6<br />Semana 7<br />Semana 8<br />Semana 9<br />Semana 10
 
 
 
