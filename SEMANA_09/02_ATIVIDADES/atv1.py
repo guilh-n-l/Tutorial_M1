@@ -55,7 +55,7 @@ def binary_search(vetor, menor_indice, maior_indice, elemento_procurado):
 
 '''
 O algorítmo acima é considerado de complexidade O(log(n))
-uma vez a medida que n cresce, a taxa de aumento de tempo
+uma vez a medida que "n" cresce, a taxa de aumento de tempo
 necessário para realizar o algorítmo vai diminuindo (ainda
 que esse aumento sempre exista)
 '''
